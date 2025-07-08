@@ -1,0 +1,5 @@
+Fraud_alert_folder : 'C:\Users\Ramya\OneDrive\gen_AI\fraud_alerts'
+fraud_alerts_log : 'fraud_alerts_log_10000.xlsx'
+fraud_alerts_statment : 'fraud_alerts_statments.xlsx'
+fraud_alerts_analysis : 'fraud_alerts_analysis.csv'
+alert_reason : 'alert_reasons.xlsx'
